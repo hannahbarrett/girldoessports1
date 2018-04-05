@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant: 100, 200, 300, 400, 500, 600, 700');
+
+
+* {
+ font-size: 100%;
+ font-family: 'Cormorant', serif;
+ font-weight: bold;
+}
+
+.card-title {
+    align-items: center;
+    color: #fafafa;
+    font-family: 'Cormorant', serif;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.card-img-overlay {
+    align-items: center;
+    color: #fafafa;
+    font-family: 'Cormorant', serif;
+    font-size: 20px;
+    margin-top: 80px;
+
+}
+
